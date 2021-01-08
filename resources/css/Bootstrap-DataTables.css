@@ -1,0 +1,10 @@
+.bootstrap_datatables {
+  min-height: 100vh;
+}
+
+@media (max-width: 768px) {
+  #pickYourShortcodeId {
+    border-right: none !important;
+  }
+}
+
